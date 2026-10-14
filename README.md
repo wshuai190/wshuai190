@@ -5,7 +5,7 @@ Research Fellow at [**ielab**](https://ielab.io), The University of Queensland. 
 [![Website](https://img.shields.io/badge/shuaiwang.io-0f766e?style=flat-square&logo=astro&logoColor=white)](https://shuaiwang.io) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=JDKYomkAAAAJ&hl=en) [![X](https://img.shields.io/badge/@dylan__wangs-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/dylan_wangs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuai-wang-33125b196) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0726-5250)
 
 <!-- METRICS:START -->
-📈 **1,478** citations · h-index **18** · i10-index **24** ([Google Scholar](https://scholar.google.com/citations?user=JDKYomkAAAAJ)) · 🧘 cultivation realm: **Foundation Establishment (筑基期)** ([what?](https://shuaiwang.io/about/))
+📈 **1,480** citations · h-index **18** · i10-index **24** ([Google Scholar](https://scholar.google.com/citations?user=JDKYomkAAAAJ)) · 🧘 cultivation realm: **Foundation Establishment (筑基期)** ([what?](https://shuaiwang.io/about/))
 <!-- METRICS:END -->
 
 #### 🔧 Things I build
