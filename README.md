@@ -1,6 +1,6 @@
 ### Hi, I'm Shuai (Dylan) Wang 王率 👋
 
-Research Fellow at [**ielab**](https://ielab.io), The University of Queensland. I build **search agents**, **retrievers and rerankers**, **biomedical evidence search** and **efficient RAG** — and release the code, models and collections behind the papers.
+Member of Technical Staff at [**Keenable.ai**](https://keenable.ai), building web search for AI agents. Previously Research Fellow at [**ielab**](https://ielab.io), The University of Queensland. I build **search agents**, **retrievers and rerankers**, **biomedical evidence search** and **efficient RAG** — and release the code, models and collections behind the papers.
 
 [![Website](https://img.shields.io/badge/shuaiwang.io-0f766e?style=flat-square&logo=astro&logoColor=white)](https://shuaiwang.io) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=JDKYomkAAAAJ&hl=en) [![X](https://img.shields.io/badge/@dylan__wangs-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/dylan_wangs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuai-wang-33125b196) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0726-5250)
 
@@ -10,7 +10,7 @@ Research Fellow at [**ielab**](https://ielab.io), The University of Queensland. 
 
 #### 🔧 Things I build
 
-Most of my research code lives under [@ielab](https://github.com/ielab) — these are the repos I work on.
+Most of my research code from UQ lives under [@ielab](https://github.com/ielab) — these are the repos I worked on.
 
 | Project | What it is | |
 |---|---|---|
@@ -35,4 +35,4 @@ Most of my research code lives under [@ielab](https://github.com/ielab) — thes
 
 #### 💬 Say hi
 
-Ask my **[digital twin](https://shuaiwang.io/)** anything about my work (it answers from my site), or [email me](mailto:shuai.wang2@uq.edu.au). Always happy to talk retrieval, RAG, Paradox games or a good xianxia novel.
+Ask my **[digital twin](https://shuaiwang.io/)** anything about my work (it answers from my site), or [email me](mailto:wshuai190@gmail.com). Always happy to talk retrieval, RAG, Paradox games or a good xianxia novel.
