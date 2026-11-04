@@ -5,7 +5,7 @@ Member of Technical Staff at [**Keenable.ai**](https://keenable.ai), building we
 [![Website](https://img.shields.io/badge/shuaiwang.io-0f766e?style=flat-square&logo=astro&logoColor=white)](https://shuaiwang.io) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=JDKYomkAAAAJ&hl=en) [![X](https://img.shields.io/badge/@dylan__wangs-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/dylan_wangs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuai-wang-33125b196) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0726-5250)
 
 <!-- METRICS:START -->
-📈 **1,522** citations · h-index **18** · i10-index **24** ([Google Scholar](https://scholar.google.com/citations?user=JDKYomkAAAAJ)) · 🧘 cultivation realm: **Foundation Establishment (筑基期)** ([what?](https://shuaiwang.io/about/))
+📈 **1,531** citations · h-index **18** · i10-index **24** ([Google Scholar](https://scholar.google.com/citations?user=JDKYomkAAAAJ)) · 🧘 cultivation realm: **Foundation Establishment (筑基期)** ([what?](https://shuaiwang.io/about/))
 <!-- METRICS:END -->
 
 #### 🔧 Things I build
@@ -26,11 +26,11 @@ Most of my research code from UQ lives under [@ielab](https://github.com/ielab) 
 #### 📰 Latest (auto-updated daily from [shuaiwang.io](https://shuaiwang.io/news/))
 
 <!-- NEWS:START -->
+- 📣 **Nov 2026** — [ITER Accepted at WSDM 2027 Findings](https://shuaiwang.io/news/#2026-11-03-iter-accepted-at-wsdm-2027-findings)
 - 📣 **Oct 2026** — [Joined Keenable.ai as Member of Technical Staff](https://shuaiwang.io/news/#2026-10-27-joined-keenable-ai-as-member-of-technical-staff)
 - 📄 **Oct 2026** — [Do Conversational Agents Need Explicit Memory? A Controlled Comparison with Raw-History Retrieval](https://shuaiwang.io/publication/2026-10-17-do-conversational-agents-need-explicit)
 - 📣 **Oct 2026** — [New paper: Do Conversational Agents Need Explicit Memory? A Controlled Comparison with Raw-History Retrieval](https://shuaiwang.io/news/#2026-10-17-new-paper-do-conversational-agents-need-explicit)
 - 📣 **Sep 2026** — [Paper Accepted at SIGIR-AP 2026](https://shuaiwang.io/news/#2026-09-25-paper-accepted-at-sigir-ap-2026)
-- 📄 **Aug 2026** — [ITER: Interaction-Aware Retrieval for Agentic Search](https://shuaiwang.io/publication/2026-08-28-iter-interaction-aware)
 <!-- NEWS:END -->
 
 #### 💬 Say hi
