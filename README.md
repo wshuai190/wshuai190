@@ -26,11 +26,11 @@ Most of my research code from UQ lives under [@ielab](https://github.com/ielab) 
 #### 📰 Latest (auto-updated daily from [shuaiwang.io](https://shuaiwang.io/news/))
 
 <!-- NEWS:START -->
+- 📣 **Nov 2026** — [Search, Inspect, Fetch Accepted at the EACL 2027 Main Conference](https://shuaiwang.io/news/#2026-11-13-search-inspect-fetch-accepted-at-the-eacl-2027-m)
 - 📣 **Nov 2026** — [ITER Accepted at WSDM 2027 Findings](https://shuaiwang.io/news/#2026-11-03-iter-accepted-at-wsdm-2027-findings)
 - 📣 **Oct 2026** — [Joined Keenable.ai as Member of Technical Staff](https://shuaiwang.io/news/#2026-10-27-joined-keenable-ai-as-member-of-technical-staff)
 - 📄 **Oct 2026** — [Do Conversational Agents Need Explicit Memory? A Controlled Comparison with Raw-History Retrieval](https://shuaiwang.io/publication/2026-10-17-do-conversational-agents-need-explicit)
 - 📣 **Oct 2026** — [New paper: Do Conversational Agents Need Explicit Memory? A Controlled Comparison with Raw-History Retrieval](https://shuaiwang.io/news/#2026-10-17-new-paper-do-conversational-agents-need-explicit)
-- 📣 **Sep 2026** — [Paper Accepted at SIGIR-AP 2026](https://shuaiwang.io/news/#2026-09-25-paper-accepted-at-sigir-ap-2026)
 <!-- NEWS:END -->
 
 #### 💬 Say hi
